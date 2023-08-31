@@ -1,0 +1,40 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 70px;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.image img {
+  width: 50px;
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.links a.active {
+  text-decoration: underline;
+}
+
+.line {
+  border: 1px solid #7b7878;
+}
+
+.line-large {
+  margin: 0 60px;
+  width: 92%;
+  border-bottom: 1px solid #7b7878;
+}
