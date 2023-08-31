@@ -73,7 +73,7 @@ SPA consists of Rockets, Missions, and the My Profile section:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Visit this link to see our project: (space-travlers-hub-0uuw.onrender.com/)
+- Visit this link to see our project: https://space-travlers-hub-0uuw.onrender.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
